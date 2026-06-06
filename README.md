@@ -28,11 +28,5 @@ The dataset captures how major national fiscal policies—specifically the **Uni
 
 ---
 
-## 📂 Repository Structure
-* `/data` : Raw and aggregated time-series index values (2-day intervals).
-* `/visualizations` : Line charts mapping the index trajectories of SDG indicators.
-* `/reports` : Comprehensive summary documents detailing the pre- and post-budget media behavior cycles.
-
-## 🛠️ Getting Started
 *(Optional: Add instructions here on how to open your dataset, run analysis scripts, or view the data charts).*
 
