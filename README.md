@@ -1,30 +1,30 @@
 # SDG Score Index (NITI Aayog)
 
-An analytical tracker evaluating how Indian business media prioritizes and reports on Sustainable Development Goals (SDGs) during key macroeconomic cycles.
+An analytical tracker evaluating how Indian business media prioritizes and reports on Sustainable Development Goals (SDGs) throughout the first quarter (Q1) macro-economic cycle.
 
 ---
 
 ## 📊 Overview
-This repository contains data and insights analyzing the volume, trends, and volatility of sustainability-related media coverage in Indian business dailies between **January 1 and February 20, 2026**. 
+This repository contains data and insights analyzing the volume, trends, and volatility of sustainability-related media coverage in Indian business dailies across **January, February, and March 2026**. 
 
-The dataset captures how major national fiscal policies—specifically the **Union Budget 2026** presented on February 1—directly impact media narratives around different SDGs.
+The dataset tracks how major fiscal policies—specifically the **Union Budget 2026** presented on February 1—and subsequent post-budget market re-evaluations throughout March shape corporate sustainability narratives.
 
 ## 🔑 Key Insights & Findings
 
-### 📈 Media Peaks (News Expected)
-* **The Budget Catalyst:** The overall SCORE index peaked sharply at **21.8 on February 2, 2026**, driven heavily by economic infrastructure announcements.
+### 📈 Media Peaks & Budget Impacts (Jan–Feb)
+* **The Budget Catalyst:** The overall SCORE index peaked sharply at **21.8 on February 2, 2026**, driven by core infrastructure and growth announcements.
 * **Top Performing Indicators:** 
   * **SDG 8 (Decent Work & Economic Growth):** Surged to **65.3** post-budget.
   * **SDG 9 (Industry, Innovation, & Infrastructure):** Surged to **64.4** post-budget.
   * **SDG 2 (Zero Hunger):** Maintained the highest overall average (**36.7**) due to persistent reporting on agricultural policy and food security.
 
-### ⚡ Anomalies & Surprises (News Not Expected)
-* **SDG 1 (No Poverty):** Witnessed an unexpected spike to **41.1 on February 2**, heavily driven by budget reporting on direct benefit transfers and rural welfare schemes.
-* **SDG 16 (Peace, Justice, & Strong Institutions):** Collapsed to a record low of **2.7 on February 2**, proving that growth-centric narratives completely crowded out governance and policy discussions during peak budget days.
+### 📉 Post-Budget Calibration & Market Stabilisation (March Trend)
+* **Energy Recalibration (SDG 7):** Followed a structural trajectory peaking pre-budget at **27.3**, experiencing a temporary dip, and staging a recovery through late February into March as a steady corporate investment theme.
+* **Climate Action Volatility (SDG 13):** Exhibited sharp fluctuations based entirely on macro policy and risk disclosures rather than environmental advocacy, settling into structural tracking by mid-to-late Q1.
 
-### 📉 Under-Reported Sectors
-* **Ecosystems & Biodiversity:** Nature-related goals like **SDG 14 (Life Below Water)** and **SDG 15 (Life on Land)** remained persistently low, averaging just 4.3 and 3.0 respectively. 
-* **Social Equity:** **SDG 5 (Gender Equality)** and **SDG 10 (Reduced Inequalities)** failed to gain sustained media attention, showing that business media heavily prioritizes corporate and fiscal narratives over structural equity.
+### 🔍 Systemic Under-Reporting
+* **Biodiversity Concerns:** Nature-linked goals like **SDG 14 (Life Below Water)** and **SDG 15 (Life on Land)** remained critically under-reported across the entire quarter, averaging under 4.5.
+* **Social Equality Gaps:** **SDG 5 (Gender Equality)** and **SDG 10 (Reduced Inequalities)** saw minimal press engagement, establishing that business media intensely prioritizes fiscal growth over equity issues.
 
 ---
 
